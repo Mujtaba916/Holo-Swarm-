@@ -36,9 +36,8 @@ The following GIF demonstrates the real-time interaction system of Hello Swarm V
 The user's hand movement is detected through the webcam and converted into directional control signals that influence the particle swarm.
 
 <p align="center">
-<img src="assets/hello-swarm-v1-demo.gif" width="700">
+  <img src="assests/demo.gif" width="700">
 </p>
-
 # Features
 
 ## Real-Time Hand Tracking
