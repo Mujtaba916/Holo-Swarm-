@@ -25,6 +25,19 @@ The result is an interactive particle environment where users can influence the 
 
 ---
 
+---
+
+# Demo Video
+
+The following video demonstrates the real-time interaction of **Hello Swarm V1**, showing how hand movement controls the particle swarm.
+
+<p align="center">
+  <video src="https://github.com/Mujtaba916/Holo-Swarm-/blob/main/Hol-Swarm-version-1%20(1).gif" controls width="700">
+  </video>
+</p>
+
+---
+
 # Features
 
 ## Real-Time Hand Tracking
